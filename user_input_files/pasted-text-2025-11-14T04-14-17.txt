@@ -1,0 +1,362 @@
+npm error `npm ci` can only install packages when your package.json and package-lock.json or npm-shrinkwrap.json are in sync. Please update your lock file with `npm install` before continuing.
+
+npm error
+npm error Missing: bcryptjs@2.4.3 from lock file
+
+npm error Missing: cors@2.8.5 from lock file
+
+npm error Missing: dotenv@16.6.1 from lock file
+
+npm error Missing: express@4.21.2 from lock file
+
+npm error Missing: helmet@7.2.0 from lock file
+
+npm error Missing: joi@17.13.3 from lock file
+
+npm error Missing: jsonwebtoken@9.0.2 from lock file
+
+npm error Missing: morgan@1.10.1 from lock file
+
+npm error Missing: multer@1.4.5-lts.2 from lock file
+
+npm error Missing: nodemon@3.1.11 from lock file
+
+npm error Missing: pg@8.16.3 from lock file
+
+npm error Missing: socket.io@4.8.1 from lock file
+
+npm error Missing: uuid@9.0.1 from lock file
+
+npm error Missing: object-assign@4.1.1 from lock file
+
+npm error Missing: vary@1.1.2 from lock file
+
+npm error Missing: accepts@1.3.8 from lock file
+
+npm error Missing: array-flatten@1.1.1 from lock file
+
+npm error Missing: body-parser@1.20.3 from lock file
+
+npm error Missing: content-disposition@0.5.4 from lock file
+
+npm error Missing: content-type@1.0.5 from lock file
+
+npm error Missing: cookie@0.7.1 from lock file
+
+npm error Missing: cookie-signature@1.0.6 from lock file
+
+npm error Missing: debug@2.6.9 from lock file
+
+npm error Missing: depd@2.0.0 from lock file
+
+npm error Missing: encodeurl@2.0.0 from lock file
+
+npm error Missing: escape-html@1.0.3 from lock file
+
+npm error Missing: etag@1.8.1 from lock file
+
+npm error Missing: finalhandler@1.3.1 from lock file
+
+npm error Missing: fresh@0.5.2 from lock file
+
+npm error Missing: http-errors@2.0.0 from lock file
+
+npm error Missing: merge-descriptors@1.0.3 from lock file
+
+npm error Missing: methods@1.1.2 from lock file
+
+npm error Missing: on-finished@2.4.1 from lock file
+
+npm error Missing: parseurl@1.3.3 from lock file
+
+npm error Missing: path-to-regexp@0.1.12 from lock file
+
+npm error Missing: proxy-addr@2.0.7 from lock file
+
+npm error Missing: qs@6.13.0 from lock file
+
+npm error Missing: range-parser@1.2.1 from lock file
+
+npm error Missing: safe-buffer@5.2.1 from lock file
+
+npm error Missing: send@0.19.0 from lock file
+
+npm error Missing: serve-static@1.16.2 from lock file
+
+npm error Missing: setprototypeof@1.2.0 from lock file
+
+npm error Missing: statuses@2.0.1 from lock file
+
+npm error Missing: type-is@1.6.18 from lock file
+
+npm error Missing: utils-merge@1.0.1 from lock file
+
+npm error Missing: mime-types@2.1.35 from lock file
+
+npm error Missing: negotiator@0.6.3 from lock file
+
+npm error Missing: bytes@3.1.2 from lock file
+
+npm error Missing: destroy@1.2.0 from lock file
+
+npm error Missing: iconv-lite@0.4.24 from lock file
+
+npm error Missing: raw-body@2.5.2 from lock file
+
+npm error Missing: unpipe@1.0.0 from lock file
+
+npm error Missing: ms@2.0.0 from lock file
+
+npm error Missing: inherits@2.0.4 from lock file
+
+npm error Missing: toidentifier@1.0.1 from lock file
+
+npm error Missing: safer-buffer@2.1.2 from lock file
+
+npm error Missing: @hapi/hoek@9.3.0 from lock file
+
+npm error Missing: @hapi/topo@5.1.0 from lock file
+
+npm error Missing: @sideway/address@4.1.5 from lock file
+
+npm error Missing: @sideway/formula@3.0.1 from lock file
+
+npm error Missing: @sideway/pinpoint@2.0.0 from lock file
+
+npm error Missing: jws@3.2.2 from lock file
+
+npm error Missing: lodash.includes@4.3.0 from lock file
+
+npm error Missing: lodash.isboolean@3.0.3 from lock file
+
+npm error Missing: lodash.isinteger@4.0.4 from lock file
+
+npm error Missing: lodash.isnumber@3.0.3 from lock file
+
+npm error Missing: lodash.isplainobject@4.0.6 from lock file
+
+npm error Missing: lodash.isstring@4.0.1 from lock file
+
+npm error Missing: lodash.once@4.1.1 from lock file
+
+npm error Missing: ms@2.1.3 from lock file
+
+npm error Missing: semver@7.7.3 from lock file
+
+npm error Missing: jwa@1.4.2 from lock file
+
+npm error Missing: buffer-equal-constant-time@1.0.1 from lock file
+
+npm error Missing: ecdsa-sig-formatter@1.0.11 from lock file
+
+npm error Missing: mime-db@1.52.0 from lock file
+
+npm error Missing: basic-auth@2.0.1 from lock file
+
+npm error Missing: on-finished@2.3.0 from lock file
+
+npm error Missing: on-headers@1.1.0 from lock file
+
+npm error Missing: safe-buffer@5.1.2 from lock file
+
+npm error Missing: append-field@1.0.0 from lock file
+
+npm error Missing: busboy@1.6.0 from lock file
+
+npm error Missing: concat-stream@1.6.2 from lock file
+
+npm error Missing: mkdirp@0.5.6 from lock file
+
+npm error Missing: xtend@4.0.2 from lock file
+
+npm error Missing: streamsearch@1.1.0 from lock file
+
+npm error Missing: buffer-from@1.1.2 from lock file
+
+npm error Missing: readable-stream@2.3.8 from lock file
+
+npm error Missing: typedarray@0.0.6 from lock file
+
+npm error Missing: minimist@1.2.8 from lock file
+
+npm error Missing: chokidar@3.6.0 from lock file
+
+npm error Missing: debug@4.4.3 from lock file
+
+npm error Missing: ignore-by-default@1.0.1 from lock file
+
+npm error Missing: minimatch@3.1.2 from lock file
+
+npm error Missing: pstree.remy@1.1.8 from lock file
+
+npm error Missing: simple-update-notifier@2.0.0 from lock file
+
+npm error Missing: supports-color@5.5.0 from lock file
+
+npm error Missing: touch@3.1.1 from lock file
+
+npm error Missing: undefsafe@2.0.5 from lock file
+
+npm error Missing: anymatch@3.1.3 from lock file
+
+npm error Missing: braces@3.0.3 from lock file
+
+npm error Missing: fsevents@2.3.3 from lock file
+
+npm error Missing: glob-parent@5.1.2 from lock file
+
+npm error Missing: is-binary-path@2.1.0 from lock file
+
+npm error Missing: is-glob@4.0.3 from lock file
+
+npm error Missing: normalize-path@3.0.0 from lock file
+
+npm error Missing: readdirp@3.6.0 from lock file
+
+npm error Missing: picomatch@2.3.1 from lock file
+
+npm error Missing: fill-range@7.1.1 from lock file
+
+npm error Missing: to-regex-range@5.0.1 from lock file
+
+npm error Missing: binary-extensions@2.3.0 from lock file
+
+npm error Missing: is-extglob@2.1.1 from lock file
+
+npm error Missing: brace-expansion@1.1.12 from lock file
+
+npm error Missing: balanced-match@1.0.2 from lock file
+
+npm error Missing: concat-map@0.0.1 from lock file
+
+npm error Missing: ee-first@1.1.1 from lock file
+
+npm error Missing: pg-cloudflare@1.2.7 from lock file
+
+npm error Missing: pg-connection-string@2.9.1 from lock file
+
+npm error Missing: pg-pool@3.10.1 from lock file
+
+npm error Missing: pg-protocol@1.10.3 from lock file
+
+npm error Missing: pg-types@2.2.0 from lock file
+
+npm error Missing: pgpass@1.0.5 from lock file
+
+npm error Missing: pg-int8@1.0.1 from lock file
+
+npm error Missing: postgres-array@2.0.0 from lock file
+
+npm error Missing: postgres-bytea@1.0.0 from lock file
+
+npm error Missing: postgres-date@1.0.7 from lock file
+
+npm error Missing: postgres-interval@1.2.0 from lock file
+
+npm error Missing: split2@4.2.0 from lock file
+
+npm error Missing: forwarded@0.2.0 from lock file
+
+npm error Missing: ipaddr.js@1.9.1 from lock file
+
+npm error Missing: side-channel@1.1.0 from lock file
+
+npm error Missing: core-util-is@1.0.3 from lock file
+
+npm error Missing: isarray@1.0.0 from lock file
+
+npm error Missing: process-nextick-args@2.0.1 from lock file
+
+npm error Missing: safe-buffer@5.1.2 from lock file
+
+npm error Missing: string_decoder@1.1.1 from lock file
+
+npm error Missing: util-deprecate@1.0.2 from lock file
+
+npm error Missing: encodeurl@1.0.2 from lock file
+
+npm error Missing: mime@1.6.0 from lock file
+
+npm error Missing: ms@2.1.3 from lock file
+
+npm error Missing: es-errors@1.3.0 from lock file
+
+npm error Missing: object-inspect@1.13.4 from lock file
+
+npm error Missing: side-channel-list@1.0.0 from lock file
+
+npm error Missing: side-channel-map@1.0.1 from lock file
+
+npm error Missing: side-channel-weakmap@1.0.2 from lock file
+
+npm error Missing: call-bound@1.0.4 from lock file
+
+npm error Missing: get-intrinsic@1.3.0 from lock file
+
+npm error Missing: call-bind-apply-helpers@1.0.2 from lock file
+
+npm error Missing: function-bind@1.1.2 from lock file
+
+npm error Missing: es-define-property@1.0.1 from lock file
+
+npm error Missing: es-object-atoms@1.1.1 from lock file
+
+npm error Missing: get-proto@1.0.1 from lock file
+
+npm error Missing: gopd@1.2.0 from lock file
+
+npm error Missing: has-symbols@1.1.0 from lock file
+
+npm error Missing: hasown@2.0.2 from lock file
+
+npm error Missing: math-intrinsics@1.1.0 from lock file
+
+npm error Missing: dunder-proto@1.0.1 from lock file
+
+npm error Missing: base64id@2.0.0 from lock file
+
+npm error Missing: debug@4.3.7 from lock file
+
+npm error Missing: engine.io@6.6.4 from lock file
+
+npm error Missing: socket.io-adapter@2.5.5 from lock file
+
+npm error Missing: socket.io-parser@4.2.4 from lock file
+
+npm error Missing: @types/cors@2.8.19 from lock file
+
+npm error Missing: @types/node@24.10.1 from lock file
+
+npm error Missing: cookie@0.7.2 from lock file
+
+npm error Missing: debug@4.3.7 from lock file
+
+npm error Missing: engine.io-parser@5.2.3 from lock file
+
+npm error Missing: ws@8.17.1 from lock file
+
+npm error Missing: undici-types@7.16.0 from lock file
+
+npm error Missing: debug@4.3.7 from lock file
+
+npm error Missing: @socket.io/component-emitter@3.1.2 from lock file
+
+npm error Missing: debug@4.3.7 from lock file
+
+npm error Missing: safe-buffer@5.1.2 from lock file
+
+npm error Missing: has-flag@3.0.0 from lock file
+
+npm error Missing: is-number@7.0.0 from lock file
+
+npm error Missing: media-typer@0.3.0 from lock file
+
+npm error Missing: ms@2.1.3 from lock file
+
+npm error Missing: ms@2.1.3 from lock file
+
+npm error Missing: ms@2.1.3 from lock file
+
+npm error Missing: ms@2.1.3 from lock file
+
+npm error Missing: ms@2.1.3 from lock file
